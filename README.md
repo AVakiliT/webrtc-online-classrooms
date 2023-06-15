@@ -72,3 +72,6 @@ config.erizoController.listen_port = 8443; //default value: 8080
 ```
 
 Finally, replace both cert.pem and key.pem in /cert directory with your own cert files. Instructions for creating a self-signed certificate can be found in [this article](https://devcenter.heroku.com/articles/ssl-certificate-self).
+
+
+![Demo of User Interface](demo.png "Demo of User Interface")
